@@ -1,0 +1,3 @@
+api/config.php
+api/storage/*.json
+.DS_Store
